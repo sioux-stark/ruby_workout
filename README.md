@@ -3,7 +3,7 @@
 ## Part 1 - Revisit Prework
 
 Read and do one of the following:
-[Ruby Hard Way:Exercise 1-12, 18,19,21,39,40](http://learnrubythehardway.org/book/), and [Ruby Monk Primer](Up To Classes and Object Oriented Programming)
+[Ruby Hard Way:Exercise 1-12, 18,19,21,39,40](http://learnrubythehardway.org/book/), and [Ruby Monk Primer Up To Classes and Object Oriented Programming](http://rubymonk.com/learning/books/1-ruby-primer)
 
 ## Part 2 - Generic Exercises
 
