@@ -1,7 +1,11 @@
 # Ruby Workout 
 
+## Part 1 - Revisit Prework
 
-## Part 2
+Read and do one of the following:
+[Ruby Hard Way:Exercise 1-12, 18,19,21,39,40](http://learnrubythehardway.org/book/), and [Ruby Monk Primer](Up To Classes and Object Oriented Programming)
+
+## Part 2 - Generic Exercises
 
 For this lab, we'd like you to complete a few challenges to reinforce your knowledge of integers, strings, arrays and booleans as well as iterators. Do at least two of the following exercises.
 
