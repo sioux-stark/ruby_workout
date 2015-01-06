@@ -1,22 +1,5 @@
 ### Challenge 1 - Temperature Converter
 
-# Create a simple temperature convertor.  It should function like the example below:
-
-# ```
-# Type '1' to convert from Celsius to Fahrenheit OR type '2' to convert from Fahrenheit to Celsius
-# 1
-# Enter Celsius Temperature:
-# 24
-# 24 degrees Celsius is equal to 75.2 degrees Fahrenheit
-# ```
-# in javascript
-# var farTemp = 99,
-#     rawCelsiusTemp = (farTemp - 32)*5/9,
-#     celsiusTemp;
-
-# var celsiusTemp = Math.round( rawCelsiusTemp*100 )/100;
-
-# console.log(celsiusTemp + "˚C is " + farTemp + "˚F");
 
 def Temp_Converter
   #to_integer
@@ -27,7 +10,7 @@ def Temp_Converter
   elsif (num == 2)
     puts temp-32*5/9
   else
-    puts "that not one or two"
+    puts "that's not one or two"
   end
  end
 end  
@@ -45,7 +28,7 @@ def calc
     puts num - num2 
   elsif answer == "mulitply" 
     puts num*num2
-   elsif anwer == "divide" 
+   elsif answer == "divide" 
      puts num/num2
     else
     puts "those aren't numbers"
